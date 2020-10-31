@@ -30,10 +30,10 @@ I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, 
 
 ### Languages:
 
-<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/43825167/89091381-5347ba00-d377-11ea-907e-6146d04b5323.png" />
+<img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/43825167/89091381-5347ba00-d377-11ea-907e-6146d04b5323.png" />
-<img align="left" alt="R" width="26px" src="https://user-images.githubusercontent.com/43825167/89091381-5347ba00-d377-11ea-907e-6146d04b5323.png" />
-<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/43825167/89091381-5347ba00-d377-11ea-907e-6146d04b5323.png" />
+<img align="left" alt="R" width="26px" src="https://www.r-project.org/Rlogo.png" />
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -58,7 +58,7 @@ I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, 
 <img align="left" alt="Flask" width="26px" src="https://user-images.githubusercontent.com/43825167/89093879-0f12e480-d38c-11ea-91f2-cb4b76268827.png" />
 <img align="left" alt="Django" width="26px" src="https://user-images.githubusercontent.com/43825167/89093879-0f12e480-d38c-11ea-91f2-cb4b76268827.png" />
 <img align="left" alt="Selenium" width="26px" src="https://camo.githubusercontent.com/17ac5b754e8518fa28c3653ed98deeba4b0e41e9/68747470733a2f2f63646e2e7261776769742e636f6d2f636c61726976652f636c612d73656c656e69756d2d706c7567696e2f6d61737465722f7075626c69632f69636f6e2f73656c656e69756d2e7376673f73616e6974697a653d74727565" />
-<img align="left" alt="keras" width="26px" src="https://commons.wikimedia.org/wiki/File:Keras_Logo.jpg" />
+<img align="left" alt="keras" width="26px" src="https://commons.wikimedia.org/wiki/File:Keras_logo.svg" />
 <img align="left" alt="tensorflow" width="26px" src="https://www.tensorflow.org/_static/images/tensorflow/logo.png" />
 <img align="left" alt="pytorch" width="26px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.svg" />
 <img align="left" alt="Plotly" width="26px" src="https://dash.plotly.com/assets/images/logo-plotly.png" />
@@ -71,8 +71,9 @@ I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, 
 <img align="left" alt="aws" width="30px" src="https://user-images.githubusercontent.com/43825167/89129745-c19e9080-d4cd-11ea-8ced-53520586e6fb.png" />
 <img align="left" alt="gcp" width="26px" src="https://user-images.githubusercontent.com/43825167/89129758-e09d2280-d4cd-11ea-981f-7b1f4241ad06.png" />
 <img align="left" alt="digitalocean" height="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1024px-DigitalOcean_logo.svg.png" />
+<br />
 
-### OS
+### OS :
 <img align="left" alt="Arch" width="30px" src="https://www.iconfinder.com/icons/386451/arch_linux_archlinux_icon" />
 <img align="left" alt="Debian" width="30px" src="https://www.debian.org/logos/openlogo-nd-75.jpg" />
 <img align="left" alt="Windows" width="30px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/microsoft_windows-512.png" />
