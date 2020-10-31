@@ -12,7 +12,7 @@ I MAKE STUFF HAPPEN
 ![GitHub followers](https://img.shields.io/github/followers/rushic24?color=velvet&style=flat-square)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rushic24.vistorsBadge)
   
-  </div>
+ </div>
 
 
 
@@ -27,6 +27,8 @@ I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, 
 [<img align="left" alt="rusihc24 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="rushic24 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="rushic24 | DEV" width="22px" src="https://user-images.githubusercontent.com/43825167/94376726-67dfce80-00ea-11eb-84c4-4a0c1496cec9.png" />][DEV]
+
+<br />
 
 ### Languages:
 
