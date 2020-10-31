@@ -2,11 +2,9 @@
 <div align="center">
 
 ### Hi there, I'm Rushi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
 </div>
 
 <div align="center">
-  
 <img src="https://user-images.githubusercontent.com/53929994/97773333-21382680-1b25-11eb-8de9-eba964792cd8.gif" >
   
 ![GitHub followers](https://img.shields.io/github/followers/rushic24?color=velvet&style=flat-square)
