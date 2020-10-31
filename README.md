@@ -1,9 +1,9 @@
 
-<p align="center">
+<div align="center">
 
 ### Hi there, I'm Rushi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-</p>
+</div>
 
 <div align="center">I MAKE STUFF HAPPEN</div>
 
