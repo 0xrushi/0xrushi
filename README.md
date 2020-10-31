@@ -44,6 +44,8 @@ I'm a Student, Developer. <img align="right" alt="rushic24 | profile_pic" width=
 <img align="left" alt="Oracle" width="26px" src="https://user-images.githubusercontent.com/43825167/89093552-8b57f880-d389-11ea-9a70-5d9384ec5da2.png" />
 
 <br />
+<br />
+
 
 ### Tools and Technologies:
 <img align="left" alt="Jupyter Notebook" width="28px" src="https://user-images.githubusercontent.com/43825167/89091464-fe587380-d377-11ea-9c3b-f4487dd34bdb.png" />
