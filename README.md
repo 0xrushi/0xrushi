@@ -18,7 +18,7 @@ I MAKE STUFF HAPPEN
 
 I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, designing PC builds, creating various scripts and bots to make my life easier and sharing my knowledge with others a public as possible. I love open source. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. You can see a list of a few of my ideas at ![https://rushichaudhari.github.io/](https://rushichaudhari.github.io).
 
-- 💻 Working on projects - ![Gauguin-Vega-JSON](https://github.com/NEU-AI-Skunkworks/Gauguin-Vega-JSON], ![teleconsole-telegram-bot-for-remote-docker](https://github.com/rushic24/teleconsole-telegram-bot-for-remote-docker), ![quantopian offline 2020](https://github.com/rushic24/quantopian-offline-2020)
+- 💻 Working on projects - ![Gauguin-Vega-JSON](https://github.com/NEU-AI-Skunkworks/Gauguin-Vega-JSON), ![teleconsole-telegram-bot-for-remote-docker](https://github.com/rushic24/teleconsole-telegram-bot-for-remote-docker), ![quantopian offline 2020](https://github.com/rushic24/quantopian-offline-2020)
 - 🥅 2020 Goals: Contribute more to the open source projects, learning about portfolio analysis, improving my linux configs
 - ⚡ Fun fact: I eat food, I like computers, learning about stock markets, cooking, reading blogs, playing counter-strike/ valorant and I sleep for an absurdly large amount of time. Once was a carrom player.
 
