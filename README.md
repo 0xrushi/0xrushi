@@ -58,14 +58,14 @@ I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, 
 <img align="left" alt="Flask" width="26px" src="https://user-images.githubusercontent.com/43825167/89093879-0f12e480-d38c-11ea-91f2-cb4b76268827.png" />
 <img align="left" alt="Django" width="26px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
 <img align="left" alt="Selenium" width="26px" src="https://camo.githubusercontent.com/17ac5b754e8518fa28c3653ed98deeba4b0e41e9/68747470733a2f2f63646e2e7261776769742e636f6d2f636c61726976652f636c612d73656c656e69756d2d706c7567696e2f6d61737465722f7075626c69632f69636f6e2f73656c656e69756d2e7376673f73616e6974697a653d74727565" />
-<img align="left" alt="keras" width="36px" src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg" />
+<img align="left" alt="keras" width="46px" src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg" />
 <img align="left" alt="tensorflow" height="36px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" />
 <img align="left" alt="pytorch" height="36px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" />
 <img align="left" alt="Plotly" height="36px" src="https://dash.plotly.com/assets/images/logo-plotly.png" />
 <img align="left" alt="Dash" height="36px" src="https://cdn.rawgit.com/plotly/dash-docs/b1178b4e/images/dash-logo-stripe.svg" />
 
 
-<br/>
+<br />
 
 ### Cloud :
 <img align="left" alt="aws" width="30px" src="https://user-images.githubusercontent.com/43825167/89129745-c19e9080-d4cd-11ea-8ced-53520586e6fb.png" />
