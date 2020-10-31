@@ -7,7 +7,7 @@
 
 <div align="center">
   
-I MAKE STUFF HAPPEN
+<img src="https://user-images.githubusercontent.com/53929994/97773333-21382680-1b25-11eb-8de9-eba964792cd8.gif" >
   
 ![GitHub followers](https://img.shields.io/github/followers/rushic24?color=velvet&style=flat-square)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rushic24.vistorsBadge)
