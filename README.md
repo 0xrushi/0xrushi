@@ -59,8 +59,8 @@ I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, 
 <img align="left" alt="Django" width="26px" src="https://user-images.githubusercontent.com/43825167/89093879-0f12e480-d38c-11ea-91f2-cb4b76268827.png" />
 <img align="left" alt="Selenium" width="26px" src="https://camo.githubusercontent.com/17ac5b754e8518fa28c3653ed98deeba4b0e41e9/68747470733a2f2f63646e2e7261776769742e636f6d2f636c61726976652f636c612d73656c656e69756d2d706c7567696e2f6d61737465722f7075626c69632f69636f6e2f73656c656e69756d2e7376673f73616e6974697a653d74727565" />
 <img align="left" alt="keras" width="26px" src="https://commons.wikimedia.org/wiki/File:Keras_logo.svg" />
-<img align="left" alt="tensorflow" width="26px" src="https://www.tensorflow.org/_static/images/tensorflow/logo.png" />
-<img align="left" alt="pytorch" width="26px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.svg" />
+<img align="left" alt="tensorflow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" />
+<img align="left" alt="pytorch" width="26px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" />
 <img align="left" alt="Plotly" width="26px" src="https://dash.plotly.com/assets/images/logo-plotly.png" />
 <img align="left" alt="Dash" width="26px" src="https://cdn.rawgit.com/plotly/dash-docs/b1178b4e/images/dash-logo-stripe.svg" />
 
@@ -79,7 +79,7 @@ I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, 
 <img align="left" alt="Windows" width="30px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/microsoft_windows-512.png" />
 
 
-<br>
+<br/ >
 <img width="440px" align="left" alt="rushic24 Github Stats" src="https://github-readme-stats.vercel.app/api?username=rushic24&show_icons=true&hide_border=true" />
 
 <img align="right" alt="rushic24 Github programs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushic24&layout=compact&count_private=true" />
