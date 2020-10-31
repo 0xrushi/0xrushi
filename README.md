@@ -16,9 +16,9 @@ I MAKE STUFF HAPPEN
 
 
 
-I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, designing PC builds, creating various scripts and bots to make my life easier and sharing my knowledge with others a public as possible. I love open source. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. You can see a list of a few of my ideas at !(https://rushichaudhari.github.io/)[https://rushichaudhari.github.io/].
+I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, designing PC builds, creating various scripts and bots to make my life easier and sharing my knowledge with others a public as possible. I love open source. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. You can see a list of a few of my ideas at ![https://rushichaudhari.github.io/](https://rushichaudhari.github.io/).
 
-- 💻 Working on projects - (Gauguin-Vega-JSON)[https://github.com/NEU-AI-Skunkworks/Gauguin-Vega-JSON], (teleconsole-telegram-bot-for-remote-docker)[https://github.com/rushic24/teleconsole-telegram-bot-for-remote-docker], (quantopian offline 2020)[https://github.com/rushic24/quantopian-offline-2020]
+- 💻 Working on projects - [Gauguin-Vega-JSON](https://github.com/NEU-AI-Skunkworks/Gauguin-Vega-JSON], (teleconsole-telegram-bot-for-remote-docker)[https://github.com/rushic24/teleconsole-telegram-bot-for-remote-docker), [quantopian offline 2020](https://github.com/rushic24/quantopian-offline-2020)
 - 🥅 2020 Goals: Contribute more to the open source projects, learning about portfolio analysis, improving my linux configs
 - ⚡ Fun fact: I eat food, I like computers, learning about stock markets, cooking, reading blogs, playing counter-strike/ valorant and I sleep for an absurdly large amount of time. Once was a carrom player.
 
@@ -63,7 +63,7 @@ I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, 
 ### Cloud Engineering:
 <img align="left" alt="aws" width="30px" src="https://user-images.githubusercontent.com/43825167/89129745-c19e9080-d4cd-11ea-8ced-53520586e6fb.png" />
 <img align="left" alt="gcp" width="26px" src="https://user-images.githubusercontent.com/43825167/89129758-e09d2280-d4cd-11ea-981f-7b1f4241ad06.png" />
-<img align="left" alt="azure" width="30px" src="https://user-images.githubusercontent.com/43825167/89129789-45587d00-d4ce-11ea-97ae-b4fcfe681713.png" />
+<img align="left" alt="digitalocean" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1024px-DigitalOcean_logo.svg.png" />
 
 
 
