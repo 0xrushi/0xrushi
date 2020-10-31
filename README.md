@@ -5,10 +5,16 @@
 
 </div>
 
-<div align="center">I MAKE STUFF HAPPEN</div>
-
+<div align="center">
+  
+I MAKE STUFF HAPPEN
+  
 ![GitHub followers](https://img.shields.io/github/followers/rushic24?color=velvet&style=flat-square)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rushic24.vistorsBadge)
+  
+  </div>
+
+
 
 I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, designing PC builds, creating various scripts and bots to make my life easier and sharing my knowledge with others a public as possible. I love open source. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. You can see a list of a few of my ideas at !(https://rushichaudhari.github.io/)[https://rushichaudhari.github.io/].
 
