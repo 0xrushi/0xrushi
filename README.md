@@ -75,7 +75,7 @@ I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, 
 <br />
 
 ### OS :
-<img align="left" alt="Arch" width="30px" src="https://www.iconfinder.com/icons/386451/arch_linux_archlinux_icon" />
+<img align="left" alt="Arch" height="30px" src="https://www.archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" />
 <img align="left" alt="Debian" width="30px" src="https://www.debian.org/logos/openlogo-nd-75.jpg" />
 <img align="left" alt="Windows" width="30px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/microsoft_windows-512.png" />
 
