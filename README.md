@@ -61,8 +61,10 @@ I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, 
 <img align="left" alt="keras" height="26px" src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg" />
 <img align="left" alt="tensorflow" height="36px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" />
 <img align="left" alt="pytorch" height="40px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" />
-<img align="left" alt="Plotly" height="40px" src="https://dash.plotly.com/assets/images/logo-plotly.png" />
+<img align="left" alt="Plotly" height="36px" src="https://dash.plotly.com/assets/images/logo-plotly.png" />
 <img align="left" alt="Dash" height="30px" src="https://cdn.rawgit.com/plotly/dash-docs/b1178b4e/images/dash-logo-stripe.svg" />
+<br />
+<br />
 <br />
 
 ### Cloud :
@@ -70,14 +72,15 @@ I'm a Student, Developer. I have a passion for learning, ricing/tweaking linux, 
 <img align="left" alt="gcp" width="26px" src="https://user-images.githubusercontent.com/43825167/89129758-e09d2280-d4cd-11ea-981f-7b1f4241ad06.png" />
 <img align="left" alt="digitalocean" height="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1024px-DigitalOcean_logo.svg.png" />
 <br />
+<br />
 
 ### OS :
 <img align="left" alt="Arch" width="30px" src="https://www.iconfinder.com/icons/386451/arch_linux_archlinux_icon" />
 <img align="left" alt="Debian" width="30px" src="https://www.debian.org/logos/openlogo-nd-75.jpg" />
 <img align="left" alt="Windows" width="30px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/microsoft_windows-512.png" />
 
-
-<br/>
+<br />
+<br />
 <img width="440px" align="left" alt="rushic24 Github Stats" src="https://github-readme-stats.vercel.app/api?username=rushic24&show_icons=true&hide_border=true" />
 
 <img align="right" alt="rushic24 Github programs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushic24&layout=compact&count_private=true" />
