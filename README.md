@@ -18,13 +18,6 @@
 - 💻 Working on projects - ![Gauguin-Vega-JSON](https://github.com/NEU-AI-Skunkworks/Gauguin-Vega-JSON), ![teleconsole-telegram-bot-for-remote-docker](https://github.com/rushic24/teleconsole-telegram-bot-for-remote-docker), ![quantopian offline 2020](https://github.com/rushic24/quantopian-offline-2020)
 - 🥅 2020 Goals: Contribute more to the open source projects, learning about portfolio analysis, improving my linux configs
 - ⚡ Fun fact: I eat food, I like computers, learning about stock markets, cooking, reading blogs, playing counter-strike/ valorant and I sleep for an absurdly large amount of time. Once was a carrom player.
-
-### Connect with me:
-
-[<img align="left" alt="rusihc24 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="rushic24 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rushic24 | DEV" width="22px" src="https://user-images.githubusercontent.com/43825167/94376726-67dfce80-00ea-11eb-84c4-4a0c1496cec9.png" />][DEV]
-
 <br />
 
 ### Languages:
