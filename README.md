@@ -83,10 +83,3 @@
 <img width="440px" align="left" alt="rushic24 Github Stats" src="https://github-readme-stats.vercel.app/api?username=rushic24&show_icons=true&hide_border=true" />
 
 <img align="right" alt="rushic24 Github programs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushic24&layout=compact&count_private=true" />
-
-
-[twitter]: https://twitter.com/prabhus165
-[instagram]: https://instagram.com/prabhs_silver
-[linkedin]: https://linkedin.com/in/prabhu-subramanian
-[DEV]: https://dev.to/prabhusub
-
