@@ -20,9 +20,15 @@
 - [AUTO-DL](https://github.com/rushic24/Auto-DL)
 - [AppFlowy The new opensource notion alternative](https://github.com/rushic24/appflowy)
 - [teleconsole-telegram-bot-for-remote-docker](https://github.com/rushic24/teleconsole-telegram-bot-for-remote-docker), ![quantopian offline 2020](https://github.com/rushic24/quantopian-offline-2020)
-- 🥅 2020 Goals: Contribute more to the open source projects, learning about portfolio analysis, improving my linux configs
-- ⚡ Fun fact: I eat food, I like computers, learning about stock markets, cooking, reading blogs, playing counter-strike/ valorant and I sleep for an absurdly large amount of time. Once was a carrom player
-- 
+### 🥅 2020 Goals: 
+- Contribute more to the open source projects
+- learning about portfolio analysis
+- improving my linux configs
+- Implementing some cutting edge research papers found on [reddit r/machinelearning](https://www.reddit.com/r/MachineLearning)
+- Tune this [Real time voice cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) for my voice
+### ⚡ Fun fact: 
+I eat food, I like computers, learning about stock markets, cooking, reading blogs, playing counter-strike/ valorant and I sleep for an absurdly large amount of time. Once was a carrom player
+
 <br />
 
 ### Languages:
