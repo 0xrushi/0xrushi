@@ -19,7 +19,10 @@
 - [Metaflow](https://github.com/rushic24/metaflow)
 - [AUTO-DL](https://github.com/rushic24/Auto-DL)
 - [AppFlowy The new opensource notion alternative](https://github.com/rushic24/appflowy)
-- [teleconsole-telegram-bot-for-remote-docker](https://github.com/rushic24/teleconsole-telegram-bot-for-remote-docker), ![quantopian offline 2020](https://github.com/rushic24/quantopian-offline-2020)
+- [Some implementation of old deeplearning networks using new tensorflow2.0 ](https://github.com/rushic24/deep-learning-notebooks)
+- [teleconsole-telegram-bot-for-remote-docker](https://github.com/rushic24/teleconsole-telegram-bot-for-remote-docker)
+- ![quantopian offline 2020](https://github.com/rushic24/quantopian-offline-2020)
+
 ### 🥅 2020 Goals: 
 - Contribute more to the open source projects
 - learning about portfolio analysis
