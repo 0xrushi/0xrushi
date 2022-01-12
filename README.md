@@ -16,10 +16,10 @@
 <img align="right" alt="rushic24 | profile_pic" width="300px" src="https://user-images.githubusercontent.com/53929994/97773105-75daa200-1b23-11eb-8e27-2ee45ae52558.PNG" /> I have a passion for learning, ricing/tweaking linux, designing PC builds, creating various scripts and bots to make my life easier and sharing my knowledge with others a public as possible. I love open source. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. You can see a list of a few of my ideas at [https://rushichaudhari.github.io/](https://rushichaudhari.github.io/). 
 
 ### 💻 Working on projects 
+- [Some implementation of old deeplearning networks using new tensorflow2.0 ](https://github.com/rushic24/deep-learning-notebooks)
 - [Metaflow](https://github.com/rushic24/metaflow)
 - [AUTO-DL](https://github.com/rushic24/Auto-DL)
 - [AppFlowy The new opensource notion alternative](https://github.com/rushic24/appflowy)
-- [Some implementation of old deeplearning networks using new tensorflow2.0 ](https://github.com/rushic24/deep-learning-notebooks)
 - [teleconsole-telegram-bot-for-remote-docker](https://github.com/rushic24/teleconsole-telegram-bot-for-remote-docker)
 - ![quantopian offline 2020](https://github.com/rushic24/quantopian-offline-2020)
 
