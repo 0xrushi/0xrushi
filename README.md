@@ -17,6 +17,7 @@
 
 ### 💻 Working on projects 
 - [Some implementation of old deeplearning networks using new tensorflow2.0 ](https://github.com/rushic24/deep-learning-notebooks)
+- [Soccer Player Tracking using YOLOv5](https://github.com/rushic24/Soccer-Player-Tracking-YoloV5)
 - [Metaflow](https://github.com/rushic24/metaflow)
 - [AUTO-DL](https://github.com/rushic24/Auto-DL)
 - [AppFlowy The new opensource notion alternative](https://github.com/rushic24/appflowy)
