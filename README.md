@@ -93,3 +93,6 @@ I eat food, I like computers, learning about stock markets, cooking, reading blo
 <img width="440px" align="left" alt="rushic24 Github Stats" src="https://github-readme-stats.vercel.app/api?username=rushic24&show_icons=true&hide_border=true" />
 
 <img align="right" alt="rushic24 Github programs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushic24&layout=compact&count_private=true" />
+
+
+![image](https://user-images.githubusercontent.com/6279035/155905271-8976ca10-6e6d-4ae4-baed-4ff6423760ab.png)
