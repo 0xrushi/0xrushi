@@ -20,6 +20,8 @@
 - [Soccer Player Tracking using YOLOv5](https://github.com/rushic24/Soccer-Player-Tracking-YoloV5)
 - [Metaflow](https://github.com/rushic24/metaflow)
 - [AUTO-DL](https://github.com/rushic24/Auto-DL)
+- [Huggingface transformers](https://github.com/huggingface/transformers)
+- [Cleanlab](https://github.com/rushic24/cleanlab)
 - [AppFlowy The new opensource notion alternative](https://github.com/rushic24/appflowy)
 - [teleconsole-telegram-bot-for-remote-docker](https://github.com/rushic24/teleconsole-telegram-bot-for-remote-docker)
 - ![quantopian offline 2020](https://github.com/rushic24/quantopian-offline-2020)
