@@ -25,6 +25,7 @@
 - [AppFlowy The new opensource notion alternative](https://github.com/rushic24/appflowy)
 - [teleconsole-telegram-bot-for-remote-docker](https://github.com/rushic24/teleconsole-telegram-bot-for-remote-docker)
 - [quantopian offline 2020](https://github.com/rushic24/quantopian-offline-2020)
+- [OpenCvVideoAnalysis](https://github.com/rushic24/OpenCVideoAnalysis)
 
 ### 🥅 2020 Goals: 
 - Contribute more to the open source projects
