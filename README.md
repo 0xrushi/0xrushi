@@ -15,8 +15,6 @@
 
 <img align="right" alt="rushic24 | profile_pic" width="300px" src="https://user-images.githubusercontent.com/53929994/97773105-75daa200-1b23-11eb-8e27-2ee45ae52558.PNG" /> I have a passion for learning, ricing/tweaking linux, designing PC builds, creating various scripts and bots to make my life easier and sharing my knowledge with others a public as possible. I love open source. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. You can see a list of a few of my ideas at [https://rushichaudhari.github.io/](https://rushichaudhari.github.io/). 
 
-## Before proceeding, please have a look at my notion page [here](https://rushic24.notion.site/An-interface-for-Browsing-my-Projects-8bf9d256e2a14cdba9f21b90276dd32e) 
-
 ### 💻 Working on projects 
 - [Some implementation of old deeplearning networks using new tensorflow2.0 ](https://github.com/rushic24/deep-learning-notebooks)
 - [Soccer Player Tracking using YOLOv5](https://github.com/rushic24/Soccer-Player-Tracking-YoloV5)
