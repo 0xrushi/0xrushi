@@ -7,16 +7,16 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/53929994/97773333-21382680-1b25-11eb-8de9-eba964792cd8.gif" >
   
-![GitHub followers](https://img.shields.io/github/followers/rushic24?color=velvet&style=flat-square)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rushic24.vistorsBadge)
+![GitHub followers](https://img.shields.io/github/followers/0xrushi?color=velvet&style=flat-square)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=0xrushi.vistorsBadge)
   
  </div>
 
 
-<img align="right" alt="rushic24 | profile_pic" width="300px" src="https://user-images.githubusercontent.com/53929994/97773105-75daa200-1b23-11eb-8e27-2ee45ae52558.PNG" /> I have a passion for learning, ricing/tweaking linux, designing PC builds, creating various scripts and bots to make my life easier and sharing my knowledge with others a public as possible. I love open source. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. You can see a list of a few of my ideas at [https://rushichaudhari.github.io/](https://rushichaudhari.github.io/). 
+<img align="right" alt="0xrushi | profile_pic" width="300px" src="https://user-images.githubusercontent.com/53929994/97773105-75daa200-1b23-11eb-8e27-2ee45ae52558.PNG" /> I have a passion for learning, ricing/tweaking linux, designing PC builds, creating various scripts and bots to make my life easier and sharing my knowledge with others a public as possible. I love open source. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. You can see a list of a few of my ideas at [https://rushichaudhari.github.io/](https://rushichaudhari.github.io/). 
 
 ### 💻 Working on projects 
-- [Some implementation of old deeplearning networks using new tensorflow2.0 ](https://github.com/rushic24/deep-learning-notebooks)
+- [Some implementation of old deeplearning networks using new tensorflow2.0 ](https://github.com/0xrushi/deep-learning-notebooks)
 - [Soccer Player Tracking using YOLOv5](https://github.com/0xrushi/Soccer-Player-Tracking-YoloV5)
 - [Metaflow](https://github.com/0xrushi/metaflow)
 - [AUTO-DL](https://github.com/0xrushi/Auto-DL)
@@ -93,6 +93,6 @@ I eat food, I like computers, learning about stock markets, cooking, reading blo
 
 <br />
 <br />
-<img width="440px" align="left" alt="rushic24 Github Stats" src="https://github-readme-stats.vercel.app/api?username=rushic24&show_icons=true&hide_border=true" />
+<img width="440px" align="left" alt="0xrushi Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xrushi&show_icons=true&hide_border=true" />
 
-<img align="right" alt="rushic24 Github programs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushic24&layout=compact&count_private=true" />
+<img align="right" alt="0xrushi Github programs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xrushi&layout=compact&count_private=true" />
