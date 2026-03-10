@@ -16,7 +16,7 @@
 I like building things that make life easier — scripts, bots, ML experiments, and Linux setups.  
 Big fan of open source and fixing small, overlooked problems.
 
-🔗 https://rushichaudhari.github.io/
+🔗 https://rushichaudhari.xyz/about/
 
 <br>
 
